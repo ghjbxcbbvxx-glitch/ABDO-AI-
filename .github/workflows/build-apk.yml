@@ -1,4 +1,4 @@
-name: Build ABDO AI APK
+name: Build ABDO AI  APK
 
 on:
   workflow_dispatch:
